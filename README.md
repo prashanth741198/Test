@@ -46,7 +46,7 @@ Below are the Helm Commands:
 ```helm rollback <Deployed_Name> <revision_num>```
 
 
-**Step by step helloworld HelmChart Deployment Process:**
+#Step by step helloworld HelmChart Deployment Process:
  ![image](https://user-images.githubusercontent.com/83760515/168247169-c0dd805c-aa9d-4549-8c7a-c2607a371c65.png)
 
  ![image](https://user-images.githubusercontent.com/83760515/168247186-5cab4388-c9ee-4fa4-93c1-1bdd21230739.png)
